@@ -190,7 +190,8 @@ This code is provided as-is for educational and trading purposes. Use at your ow
 
 ---
 
-**Author**: Hetvi Magia  
+**Author**: Heet Magia  
 **Created**: Feb 6, 2026  
 **Last Updated**: Feb 11, 2026
+
 
