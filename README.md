@@ -21,7 +21,7 @@ A Python-based automated trading system for selling NIFTY options using the Upst
 ### Prerequisites
 ```bash
 python 3.8+
-pip install upstox-client pandas
+
 ```
 
 ### Installation
@@ -193,3 +193,4 @@ This code is provided as-is for educational and trading purposes. Use at your ow
 **Author**: Hetvi Magia  
 **Created**: Feb 6, 2026  
 **Last Updated**: Feb 11, 2026
+
